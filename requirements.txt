@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+streamlit
+pytesseract
+pandas
+scikit-learn
+reportlab
